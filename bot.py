@@ -2,8 +2,8 @@ import asyncio
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "7284385999:AAH_lJKLZa_hcFZW5w7kA9Qq7Hktd8AACU8"
-ADMIN_ID = 5475481085
+TOKEN = "8982672799:AAEooOJWc18EuWif1f2EgZ5Bj0LonvUzJ4M"
+ADMIN_ID = 8430076237
 
 applications = {}
 user_states = {}
