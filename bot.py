@@ -109,7 +109,7 @@ async def approve(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_id = int(context.args[0])
         await context.bot.send_message(
             chat_id=user_id,
-            text="🎉 Ваша заявка одобрена! Вступайте в команду: https://t.me/+pZ5IV1LmBk5hZTYy"
+            text="🎉 Ваша заявка одобрена! Вступайте в команду: https://t.me/+oyJ-04am_sU2MDE6"
         )
         await update.message.reply_text(f"✅ Пользователь {user_id} одобрен.")
     except:
