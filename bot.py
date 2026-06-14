@@ -6,7 +6,7 @@ import threading
 import os
 
 # ===== НАСТРОЙКИ (ЗАМЕНИ НА СВОИ) =====
-TOKEN = "8982672799:AAFnMVhUXgs14k0YZxBNiZePQzrbYNfA5Qo"   # Токен твоего бота
+TOKEN = "8982672799:AAHEB0I4MKwpNzlHpmXmjOEvJbZkiw377BQ"   # Токен твоего бота
 ADMIN_ID = 8430076237                                      # Твой Telegram ID
 INVITE_LINK = "https://t.me/+oyJ-04am_sU2MDE6"            # Ссылка на чат команды
 # ======================================
